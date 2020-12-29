@@ -10,6 +10,10 @@ ionic start crud sidemenu
 
 ## Rodando o Projeto
 
+```npm
+ng serve
+```
+
 ## Criando Banco de Dados
 
 ## Criando Demais Páginas
